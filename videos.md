@@ -15,8 +15,8 @@ title: Videos
   </div>
 </div>
 <div class="container-fluid pt-3">
-  <div class="row">
-    <div class="col-md-7 mb-4 pb-2 text-center text-white">
+  <div class="row"
+     <div class="not sure to text">
       <div class="mb-0">
         <h2 class="display-5">Latest Video</h2>
         <h2 class="display-5 text-white"><a href="sessions/native_code_crash_course">Native Code Crash Course</a></h2>
